@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/transaction-app-react/static/css/main.520e7cd6.chunk.css",
+    "main.js": "/transaction-app-react/static/js/main.42c4a54d.chunk.js",
+    "main.js.map": "/transaction-app-react/static/js/main.42c4a54d.chunk.js.map",
+    "runtime-main.js": "/transaction-app-react/static/js/runtime-main.a1108a33.js",
+    "runtime-main.js.map": "/transaction-app-react/static/js/runtime-main.a1108a33.js.map",
+    "static/js/2.b239d52a.chunk.js": "/transaction-app-react/static/js/2.b239d52a.chunk.js",
+    "static/js/2.b239d52a.chunk.js.map": "/transaction-app-react/static/js/2.b239d52a.chunk.js.map",
+    "static/js/3.1a0a13af.chunk.js": "/transaction-app-react/static/js/3.1a0a13af.chunk.js",
+    "static/js/3.1a0a13af.chunk.js.map": "/transaction-app-react/static/js/3.1a0a13af.chunk.js.map",
+    "index.html": "/transaction-app-react/index.html",
+    "static/css/main.520e7cd6.chunk.css.map": "/transaction-app-react/static/css/main.520e7cd6.chunk.css.map",
+    "static/js/2.b239d52a.chunk.js.LICENSE.txt": "/transaction-app-react/static/js/2.b239d52a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a1108a33.js",
+    "static/js/2.b239d52a.chunk.js",
+    "static/css/main.520e7cd6.chunk.css",
+    "static/js/main.42c4a54d.chunk.js"
+  ]
+}
